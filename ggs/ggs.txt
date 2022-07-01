@@ -1,1 +1,1 @@
-hello from new branch
+hello from merged branch
